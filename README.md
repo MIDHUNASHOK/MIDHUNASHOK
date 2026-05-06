@@ -73,9 +73,9 @@ Features:
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/midhun-ashok-k/)
 
-📧 Email: your-email@gmail.com
+📧 Email: midhunashok619@gmail.com
 
 ---
 
